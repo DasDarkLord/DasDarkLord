@@ -1,0 +1,3 @@
+-  Hi, I’m @DasDarkLord
+-  I’m interested in Programming
+-  I’m currently learning Java
